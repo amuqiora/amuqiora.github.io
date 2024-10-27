@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://amuqiora.github.io/sitemap_index.amuqiora
